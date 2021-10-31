@@ -1,4 +1,4 @@
-
+//Creamos el objeto Libros con los atributos pedidos
 public class Libros {
 	private String isbn;
 	private String titulo;
